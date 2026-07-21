@@ -309,5 +309,4 @@ This project demonstrates the power of **Power BI**, **SQL**, and **DAX** in tra
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
 
-💼 **LinkedIn:** *Add your profile here*  
-💻 **GitHub:** *Add your GitHub profile here*
+💼 **LinkedIn: www.linkedin.com/in/vishwas-gautam-a9b0101b2
